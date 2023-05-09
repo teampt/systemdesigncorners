@@ -7,7 +7,7 @@ function App() {
     <div>
       <Header></Header>
       <div>
-        <p>This is a begining of new website which focuses only on corners of the system designs and enlist captured stats during those use cases. We would start with SingleStore DB</p>
+        <p>This is a begining of new website which focuses only on corners of the system designs and enlist captured stats during those use cases. We would start with Mongo DB</p>
       </div>
     </div>
 
