@@ -6,20 +6,7 @@ import perforamancestats from './perforamance-stats.json';
 
 
 function Table() {
-  //readFile();
-  // const  data = [
-  //     {
-  //       sample: '1000',
-  //       average: 602.3,
-  //       median: '500',
-  //     },
-  //     {
-  //       sample: 'Jane Doe',
-  //       average: 30,
-  //       median: 'Female',
-  //     },
-  //     // add more data here
-  //   ];
+
   const columns = [
     {
       Header: 'Label',
