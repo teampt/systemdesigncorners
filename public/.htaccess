@@ -1,8 +1,8 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /subdirectory
-#RewriteCond %{HTTP_HOST} ^www.sys1temdesigncorners.tech/
-RewriteCond %{HTTP_HOST} ^www\.
+RewriteCond %{HTTP_HOST} ^www.systemdesigncorners.tech/
+#RewriteCond %{HTTP_HOST} ^www\.
 
 RewriteRule ^(.*)$ https://systemdesigncorners.tech/$1 [R=301,L]
 RewriteRule ^index\.html$ - [L]
